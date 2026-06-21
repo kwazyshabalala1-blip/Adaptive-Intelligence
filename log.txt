@@ -1,0 +1,98 @@
+HypSysSsiImpl impl ready!------ (setprop persist.sys.computility.cpulevel 6) in 600s ------
+[setprop: 0.079s elapsed]
+
+------ (setprop persist.sys.computility.gpulevel 6) in 600s ------
+[setprop: 0.038s elapsed]
+
+------ (setprop persist.sys.advanced_visual_release 3) in 600s ------
+[setprop: 0.082s elapsed]
+
+------ (setprop persist.sys.background_blur_supported true) in 600s ------
+[setprop: 0.063s elapsed]
+
+HypSysSsiImpl impl ready!------ (setprop persist.sys.computility.cpulevel 0) in 600s ------
+[setprop: 0.121s elapsed]
+
+------ (setprop persist.sys.computility.gpulevel 0) in 600s ------
+[setprop: 0.054s elapsed]
+
+------ (setprop persist.sys.advanced_visual_release 0) in 600s ------
+[setprop: 0.059s elapsed]
+
+------ (setprop persist.sys.background_blur_supported false) in 600s ------
+[setprop: 0.061s elapsed]
+
+HypSysSsiImpl impl ready!------ (setprop persist.sys.advanced_visual_release 1) in 600s ------
+[setprop: 0.096s elapsed]
+
+HypSysSsiImpl impl ready!------ (setprop persist.sys.advanced_visual_release 2) in 600s ------
+[setprop: 0.099s elapsed]
+
+HypSysSsiImpl impl ready!------ (setprop persist.sys.computility.cpulevel 6) in 600s ------
+[setprop: 0.081s elapsed]
+
+------ (setprop persist.sys.computility.gpulevel 6) in 600s ------
+[setprop: 0.045s elapsed]
+
+------ (setprop persist.sys.background_blur_supported true) in 600s ------
+[setprop: 0.038s elapsed]
+
+------ (settings put system deviceLevelList v:1 c:3 g:3) in 600s ------
+cmd: Can't find service: settings
+*** settings: Exit code 20, 19665
+[settings: 0.059s elapsed]
+
+HypSysSsiImpl impl ready!------ (setprop persist.sys.advanced_visual_release 3) in 600s ------
+[setprop: 0.059s elapsed]
+
+------ (setprop persist.sys.background_blur_supported false) in 600s ------
+[setprop: 0.065s elapsed]
+
+HypSysSsiImpl impl ready!------ (setprop persist.sys.advanced_visual_release 4) in 600s ------
+[setprop: 0.059s elapsed]
+
+HypSysSsiImpl impl ready!------ (setprop persist.sys.advanced_visual_release 3) in 600s ------
+[setprop: 0.066s elapsed]
+
+HypSysSsiImpl impl ready!------ (setprop persist.sys.advanced_visual_release 2) in 600s ------
+[setprop: 0.072s elapsed]
+
+------ (setprop persist.sys.advanced_visual_release 2) in 600s ------
+[setprop: 0.044s elapsed]
+
+------ (setprop persist.sys.computility.cpulevel 6) in 600s ------
+[setprop: 0.027s elapsed]
+
+------ (setprop persist.sys.computility.gpulevel 6) in 600s ------
+[setprop: 0.026s elapsed]
+
+------ (setprop persist.sys.advanced_visual_release 3) in 600s ------
+[setprop: 0.072s elapsed]
+
+------ (setprop persist.sys.background_blur_supported true) in 600s ------
+[setprop: 0.036s elapsed]
+
+HypSysSsiImpl impl ready!------ (setprop persist.sys.miui_animation_scale 0) in 600s ------
+[setprop: 0.068s elapsed]
+
+HypSysSsiImpl impl ready!------ (setprop persist.sys.computility.cpulevel 0) in 600s ------
+[setprop: 0.059s elapsed]
+
+------ (setprop persist.sys.computility.gpulevel 0) in 600s ------
+[setprop: 0.039s elapsed]
+
+------ (setprop persist.sys.advanced_visual_release 0) in 600s ------
+[setprop: 0.028s elapsed]
+
+------ (setprop persist.sys.background_blur_supported false) in 600s ------
+[setprop: 0.041s elapsed]
+
+HypSysSsiImpl impl ready!------ (setprop persist.sys.computility.gpulevel 6) in 600s ------
+[setprop: 0.054s elapsed]
+
+------ (setprop persist.sys.advanced_visual_release 3) in 600s ------
+[setprop: 0.032s elapsed]
+
+------ (setprop persist.sys.background_blur_supported true) in 600s ------
+[setprop: 0.033s elapsed]
+
